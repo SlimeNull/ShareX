@@ -136,13 +136,13 @@
     <value>NoControl</value>
   </data>
   <data name="lblListViewTip.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 20</value>
+    <value>0, 18</value>
   </data>
   <data name="lblListViewTip.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>10, 10, 10, 10</value>
+    <value>10, 9, 10, 9</value>
   </data>
   <data name="lblListViewTip.Size" type="System.Drawing.Size, System.Drawing">
-    <value>20, 35</value>
+    <value>20, 33</value>
   </data>
   <data name="lblListViewTip.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -205,7 +205,7 @@
     <value>0, 0</value>
   </data>
   <data name="lvUploads.Size" type="System.Drawing.Size, System.Drawing">
-    <value>335, 471</value>
+    <value>335, 435</value>
   </data>
   <data name="lvUploads.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -241,7 +241,7 @@
     <value>0, 0</value>
   </data>
   <data name="pbPreview.Size" type="System.Drawing.Size, System.Drawing">
-    <value>338, 471</value>
+    <value>338, 435</value>
   </data>
   <data name="pbPreview.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -271,7 +271,7 @@
     <value>1</value>
   </data>
   <data name="scMain.Size" type="System.Drawing.Size, System.Drawing">
-    <value>679, 471</value>
+    <value>679, 435</value>
   </data>
   <data name="scMain.SplitterDistance" type="System.Int32, mscorlib">
     <value>335</value>
@@ -877,7 +877,7 @@
     <value>6, 6, 6, 0</value>
   </data>
   <data name="tsMain.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 429</value>
+    <value>165, 393</value>
   </data>
   <data name="tsMain.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1894,10 +1894,10 @@
     <value>NoControl</value>
   </data>
   <data name="btnCloseNews.Location" type="System.Drawing.Point, System.Drawing">
-    <value>557, 434</value>
+    <value>557, 401</value>
   </data>
   <data name="btnCloseNews.Size" type="System.Drawing.Size, System.Drawing">
-    <value>99, 31</value>
+    <value>99, 29</value>
   </data>
   <data name="btnCloseNews.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1924,7 +1924,7 @@
     <value>0, 0</value>
   </data>
   <data name="ucNews.Size" type="System.Drawing.Size, System.Drawing">
-    <value>679, 471</value>
+    <value>679, 435</value>
   </data>
   <data name="ucNews.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1948,7 +1948,7 @@
     <value>165, 0</value>
   </data>
   <data name="pNews.Size" type="System.Drawing.Size, System.Drawing">
-    <value>679, 471</value>
+    <value>679, 435</value>
   </data>
   <data name="pNews.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1984,10 +1984,10 @@
     <value>0, 0</value>
   </data>
   <data name="lblThumbnailViewTip.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>10, 10, 10, 10</value>
+    <value>10, 9, 10, 9</value>
   </data>
   <data name="lblThumbnailViewTip.Size" type="System.Drawing.Size, System.Drawing">
-    <value>20, 35</value>
+    <value>20, 33</value>
   </data>
   <data name="lblThumbnailViewTip.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2014,7 +2014,7 @@
     <value>0, 0</value>
   </data>
   <data name="ucTaskThumbnailView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>679, 471</value>
+    <value>679, 435</value>
   </data>
   <data name="ucTaskThumbnailView.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2038,7 +2038,7 @@
     <value>165, 0</value>
   </data>
   <data name="pThumbnailView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>679, 471</value>
+    <value>679, 435</value>
   </data>
   <data name="pThumbnailView.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -2128,7 +2128,7 @@
     <value>Star our GitHub repo</value>
   </data>
   <data name="tsSocialButtons.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 429</value>
+    <value>0, 393</value>
   </data>
   <data name="tsSocialButtons.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>6, 3, 6, 6</value>
@@ -2158,7 +2158,7 @@
     <value>0, 0</value>
   </data>
   <data name="pToolbars.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 471</value>
+    <value>165, 435</value>
   </data>
   <data name="pToolbars.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -2182,16 +2182,13 @@
     <value>59</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+    <value>6, 12</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>844, 471</value>
-  </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+    <value>844, 435</value>
   </data>
   <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>510, 250</value>
+    <value>510, 234</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
